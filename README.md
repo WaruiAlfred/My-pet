@@ -17,5 +17,5 @@ I used HTML mostly to add links,images as well as style up the page.
 ## Support and contact details
 If any issue is encountered,feel free to contact me.Contributations to the code are welcome.
 ### License
-**
+*License under [GPL](LICENSE.md)*
 Copyright (c) 2021 **ALDIS Companies**
